@@ -3,7 +3,11 @@
     {
       "id": 1,
       "nombre": "Daniel Lopez"
-    }  
+    },
+     {
+      "id": 2,
+      "nombre": "Cris Lopez"
+    }
   ],
   "asignatura": [
     {
