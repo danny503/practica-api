@@ -1,14 +1,14 @@
 {
-  alumnos: [
+  "alumnos": [
     {
-      id: 1,
-      nombre: "Daniel Lopez"
+      "id": 1,
+      "nombre": "Daniel Lopez"
     }  
   ],
-  asignatura: [
+  "asignatura": [
     {
-      id: 1,
-      nombre: "Programacion"
+      "id": 1,
+      "nombre": "Programacion"
     }
   ]
 }
